@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bishoybotros
 - 👀 I’m interested in game industry
 - 🌱 I’m currently learning computer science
-- 💞️I am looking forward to cooperate to solve any problems coding you have with c# , c++ or python
+- 💞️I am looking forward to cooperate to prblem solving with C++.
 - 📫 How to reach me ...
 
 <!---
