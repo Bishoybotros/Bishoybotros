@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bishoybotros
-- 👀 I’m interested in game industry
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science
 - 💞️I am looking forward to cooperate to prblem solving with C++.
 - 📫 How to reach me ...
