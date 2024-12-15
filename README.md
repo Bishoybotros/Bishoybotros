@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white" />
    <img src="https://img.shields.io/badge/Web%20API-FF6C37?style=for-the-badge&logo=dotnet&logoColor=white" />
    <img src="https://img.shields.io/badge/SignalR-009688?style=for-the-badge&logo=signalr&logoColor=white" />
-   <img src="https://img.shields.io/badge/ERD%20Design-4CAF50?style=for-the-badge&logo=data&logoColor=white" />
+   <img src="https://img.shields.io/badge/ERD%20Diagram-4CAF50?style=for-the-badge&logo=data&logoColor=white" />
    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
    <img src="https://img.shields.io/badge/Microservices-0277BD?style=for-the-badge&logo=microservices&logoColor=white" />
    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
