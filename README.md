@@ -34,12 +34,23 @@
 ### 🚀 **Skills**
 
 <p align="center">
+   <!-- Core Skills -->
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img src="https://img.shields.io/badge/Web%20API-FF6C37?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img src="https://img.shields.io/badge/SignalR-009688?style=for-the-badge&logo=signalr&logoColor=white" />
+   <img src="https://img.shields.io/badge/ERD%20Design-4CAF50?style=for-the-badge&logo=data&logoColor=white" />
+   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+   <img src="https://img.shields.io/badge/Microservices-0277BD?style=for-the-badge&logo=microservices&logoColor=white" />
    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+   <!-- Machine Learning -->
    <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
+   <img src="https://img.shields.io/badge/KNN%20Algorithm-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+   <img src="https://img.shields.io/badge/KMeans-006400?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <!-- Soft Skills -->
+   <img src="https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge&logo=criticalrole&logoColor=white" />
+   <!-- Additional Tools -->
 ---
 
 ### 🛠️ **Tools & Technologies**
