@@ -13,7 +13,7 @@
 
 - 👀 **Back-end Developer** specialized in **ASP.NET Core**.  
 - 🌱 Previously worked as a **Machine Learning Engineer**.  
-- 💡 Passionate about solving problems with **C#** and exploring new technologies.  
+- 💡 Passionate about solving problems with **C++** and exploring new technologies.  
 - 🤝 Open to collaboration and contributing to challenging projects.  
 
 ---
