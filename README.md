@@ -3,11 +3,11 @@
 - 🌱 I worked as a Machine Learning Eng.
 - 💞️I look forward to cooperating to solve problems with C#.
 - 📫 How to reach me ...
-- <p align="left">
-   <a href="mailto:bishoybotros10@gmail.com" target="_blank">
+- <p align="left" style="margin: 0; padding: 0;">
+   <a href="mailto:bishoybotros10@gmail.com" target="_blank" style="text-decoration: none;">
       <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" width="45" style="vertical-align:middle; margin-right:10px;"/>
    </a>
-   <a href="https://www.linkedin.com/in/bishoy-botros-software-developer" target="_blank">
+   <a href="https://www.linkedin.com/in/bishoy-botros-software-developer" target="_blank" style="text-decoration: none;">
       <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="45" style="vertical-align:middle;"/>
    </a>
 </p>
