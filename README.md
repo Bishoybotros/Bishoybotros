@@ -50,7 +50,8 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <!-- Soft Skills -->
    <img src="https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge&logo=criticalrole&logoColor=white" />
-   <!-- Additional Tools -->
+
+  
 ---
 
 ### 🛠️ **Tools & Technologies**
