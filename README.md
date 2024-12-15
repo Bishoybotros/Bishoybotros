@@ -36,7 +36,7 @@
 <p align="center">
    <!-- Core Skills -->
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white" />
    <img src="https://img.shields.io/badge/Web%20API-FF6C37?style=for-the-badge&logo=dotnet&logoColor=white" />
    <img src="https://img.shields.io/badge/SignalR-009688?style=for-the-badge&logo=signalr&logoColor=white" />
    <img src="https://img.shields.io/badge/ERD%20Design-4CAF50?style=for-the-badge&logo=data&logoColor=white" />
