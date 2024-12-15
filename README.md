@@ -3,7 +3,7 @@
 - 🌱 I worked as a Machine Learning Eng.
 - 💞️I look forward to cooperating to solve problems with C#.
 - 📫 How to reach me ...
-<p align="left">
+- <p align="left">
 <a href="bishoybotros10@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" width="50"/>
   <a href="www.linkedin.com/in/bishoy-botros-software-developer">
