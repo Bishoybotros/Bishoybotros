@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 <p align="left">
 <a href="bishoybotros10@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" width="100"/>
+<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" width="50"/>
   <a href="www.linkedin.com/in/bishoy-botros-software-developer">
-  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"alt="LinkedIn" padding-left:5px width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"alt="LinkedIn" width="50"/>
 </a>
   </p> 
 <!---
