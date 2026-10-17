@@ -12,6 +12,7 @@
 ### 🌟 **About Me**
 
 - 👀 **Back-end Developer** specialized in **ASP.NET Core**.  
+- 🌱 **Expert Software Developer @ HITS Solutions**.
 - 🌱 Previously worked as a **Machine Learning Engineer**.  
 - 💡 Passionate about solving problems with **C++** and exploring new technologies.  
 - 🤝 Open to collaboration and contributing to challenging projects.  
